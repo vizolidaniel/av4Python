@@ -1,7 +1,7 @@
---
+-- instruções:
+-- Requerido apenas flask e mysql de imports
 -- Database: `crud`
---
---
+-- Abaixo Scripts para criação do banco de dados MYsql
 -- Criação tabela `turma`
 --
 SET GLOBAL sql_mode=''
